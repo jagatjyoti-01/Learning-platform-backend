@@ -74,3 +74,33 @@ notNull Violation: SidebarMenu.title cannot be null
 2024-12-13 22:32:38 [ERROR]: Uncaught Exception: read ECONNRESET
 2024-12-14 12:37:56 [ERROR]: Uncaught Exception: file is not defined
 2024-12-14 12:40:29 [ERROR]: Uncaught Exception: file is not defined
+2024-12-14 17:38:41 [ERROR]: Error Connecting to Database Access denied for user 'root'@'localhost' (using password: YES)
+2024-12-14 17:40:24 [ERROR]: Error Connecting to Database Access denied for user 'admin'@'152.59.156.35' (using password: YES)
+2024-12-14 17:43:33 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:35 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:36 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:37 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:37 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:37 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:37 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:38 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:38 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:38 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:42 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:45:12 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 18:44:34 [ERROR]: Uncaught Exception: read ECONNRESET
+2024-12-14 18:48:29 [ERROR]: CurrentPassword is incorrect 
+2024-12-14 18:49:30 [ERROR]: CurrentPassword is incorrect 
+2024-12-14 18:49:31 [ERROR]: CurrentPassword is incorrect 
+2024-12-14 18:49:31 [ERROR]: CurrentPassword is incorrect 
+2024-12-14 18:49:31 [ERROR]: CurrentPassword is incorrect 
+2024-12-14 18:49:32 [ERROR]: CurrentPassword is incorrect 
+2024-12-14 18:49:32 [ERROR]: CurrentPassword is incorrect 
+2024-12-14 18:49:39 [ERROR]: CurrentPassword is incorrect 
+2024-12-14 18:51:29 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 19:00:33 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 19:01:04 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 20:48:04 [ERROR]: Uncaught Exception: read ECONNRESET
+2024-12-14 20:55:14 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 21:01:39 [ERROR]: CurrentPassword is incorrect 
+2024-12-14 21:45:04 [ERROR]: Uncaught Exception: read ECONNRESET

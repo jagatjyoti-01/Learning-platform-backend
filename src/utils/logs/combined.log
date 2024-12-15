@@ -1260,3 +1260,51 @@ notNull Violation: SidebarMenu.title cannot be null
 2024-12-14 12:52:48 [INFO]: Database Connected Successfully
 2024-12-14 12:52:48 [INFO]: Connected to Redis
 2024-12-14 12:52:51 [INFO]: Database Synced Successfully
+2024-12-14 17:38:41 [INFO]: server is running on port 8080
+2024-12-14 17:38:41 [ERROR]: Error Connecting to Database Access denied for user 'root'@'localhost' (using password: YES)
+2024-12-14 17:40:23 [INFO]: server is running on port 8080
+2024-12-14 17:40:24 [ERROR]: Error Connecting to Database Access denied for user 'admin'@'152.59.156.35' (using password: YES)
+2024-12-14 17:41:25 [INFO]: server is running on port 8080
+2024-12-14 17:41:26 [INFO]: Connected to Redis
+2024-12-14 17:41:27 [INFO]: Database Connected Successfully
+2024-12-14 17:41:36 [INFO]: Database Synced Successfully
+2024-12-14 17:43:33 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:35 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:36 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:37 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:37 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:37 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:37 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:38 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:38 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:38 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:43:42 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 17:45:12 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 18:44:34 [ERROR]: Uncaught Exception: read ECONNRESET
+2024-12-14 18:47:56 [INFO]: server is running on port 8080
+2024-12-14 18:47:57 [INFO]: Connected to Redis
+2024-12-14 18:47:59 [INFO]: Database Connected Successfully
+2024-12-14 18:48:25 [INFO]: Database Synced Successfully
+2024-12-14 18:48:29 [ERROR]: CurrentPassword is incorrect 
+2024-12-14 18:49:30 [ERROR]: CurrentPassword is incorrect 
+2024-12-14 18:49:31 [ERROR]: CurrentPassword is incorrect 
+2024-12-14 18:49:31 [ERROR]: CurrentPassword is incorrect 
+2024-12-14 18:49:31 [ERROR]: CurrentPassword is incorrect 
+2024-12-14 18:49:32 [ERROR]: CurrentPassword is incorrect 
+2024-12-14 18:49:32 [ERROR]: CurrentPassword is incorrect 
+2024-12-14 18:49:39 [ERROR]: CurrentPassword is incorrect 
+2024-12-14 18:51:29 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 18:57:19 [INFO]: server is running on port 8080
+2024-12-14 18:57:21 [INFO]: Connected to Redis
+2024-12-14 18:57:23 [INFO]: Database Connected Successfully
+2024-12-14 18:57:49 [INFO]: Database Synced Successfully
+2024-12-14 19:00:33 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 19:01:04 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 20:48:04 [ERROR]: Uncaught Exception: read ECONNRESET
+2024-12-14 20:54:03 [INFO]: server is running on port 8080
+2024-12-14 20:54:04 [INFO]: Connected to Redis
+2024-12-14 20:54:06 [INFO]: Database Connected Successfully
+2024-12-14 20:54:33 [INFO]: Database Synced Successfully
+2024-12-14 20:55:14 [ERROR]: Missing credentials for "PLAIN"
+2024-12-14 21:01:39 [ERROR]: CurrentPassword is incorrect 
+2024-12-14 21:45:04 [ERROR]: Uncaught Exception: read ECONNRESET
